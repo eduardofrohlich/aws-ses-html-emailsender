@@ -56,8 +56,10 @@ Contributions are what make the open-source community such an amazing place to l
     5. Open a Pull Request
 
 
-### Contact 📱
+ ### Contact me 📱:
+<div class="d-flex justify-content-around"> 
+  <a href="https://www.instagram.com/eduardo_frohlich/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eduardofrohlich121@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardo-frohlich-666b00217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-Eduardo Vinicius Frohlich - @eduardo_frohlich - eduardofrohlich121@gmail.com
-
-Project Link: [my-repo](https://github.com/eduardofrohlich/aws-ses-html-emailsender)
